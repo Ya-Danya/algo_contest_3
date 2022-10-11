@@ -1,0 +1,3 @@
+C:/Users/Danila/source/repos/C++/AlgoRemake/algo_contest_3/TaskG/cmake-build-debug/CMakeFiles/TaskG.dir
+C:/Users/Danila/source/repos/C++/AlgoRemake/algo_contest_3/TaskG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Danila/source/repos/C++/AlgoRemake/algo_contest_3/TaskG/cmake-build-debug/CMakeFiles/rebuild_cache.dir

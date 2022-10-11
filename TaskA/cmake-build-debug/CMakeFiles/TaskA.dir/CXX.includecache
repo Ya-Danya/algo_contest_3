@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Danila/source/repos/C++/AlgoRemake/algo_contest_3/TaskA/main.cpp
+iostream
+-
+deque
+-
+queue
+-
+
